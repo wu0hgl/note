@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-20T11:18:15.488Z" agent="5.0 (Macintosh)" etag="15Qrwa2tEtZvrKBRuWHX" version="13.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-20T11:18:59.102Z" agent="5.0 (Macintosh)" etag="0IzNKqkoqoGyi_lpwinx" version="13.6.4" type="github">
   <diagram id="02eN7fPuqFx-y2PJcBan" name="第 1 页">
     <mxGraphModel dx="1796" dy="1158" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -6,6 +6,22 @@
         <mxCell id="1" parent="0" />
         <mxCell id="fqPitPoD3Ade1sRcACU9-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fqPitPoD3Ade1sRcACU9-2" value="" style="curved=1;endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="610" as="sourcePoint" />
+            <mxPoint x="440" y="560" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="440" y="610" />
+              <mxPoint x="390" y="560" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fqPitPoD3Ade1sRcACU9-3" value="" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="320" width="100" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="fqPitPoD3Ade1sRcACU9-4" value="" style="shape=xor;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="340" width="60" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
